@@ -1,0 +1,4 @@
+xtlib
+=====
+
+Experimental C++ library
