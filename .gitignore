@@ -1,0 +1,29 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+.DS_Store
+Makefile
+examples/Makefile
+examples/classcode/.DS_Store
+examples/classcode/Makefile
+examples/classcode/cli/Makefile
+examples/classcode/cli/classcode_cli.app/
+examples/classcode/cli/tmp/
+examples/classcode/qt/.DS_Store
+examples/classcode/qt/Makefile
+examples/classcode/qt/classcode_qt.app/
+examples/classcode/qt/tmp/
+lib/
+src/Makefile
+src/tmp/
