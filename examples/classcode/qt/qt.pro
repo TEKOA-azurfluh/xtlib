@@ -16,7 +16,7 @@ INCLUDEPATH += . \
 DEPENDPATH += $${INCLUDEPATH}
 LIBS += -L../../../lib -lxtlib
 
-QT += sql
+QT += sql widgets
 CONFIG += qt warn_on debug
 
 OBJECTS_DIR = tmp
